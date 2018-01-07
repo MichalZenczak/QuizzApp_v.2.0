@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">QuizzApp_v2</string>
+
+    <string-array name="questions">
+        <item>Who was the first man in history to ascend all fourteen eight-thousanders?</item>
+        <item>What is the second highest mountain on Earth?</item>
+        <item>In which year the first ever successful ascent on Mount Everest was recorded?</item>
+        <item>Which country has the most eight-thousanders?</item>
+        <item>Chomolungma is the Tibetan name for which mountain?</item>
+    </string-array>
+
+    <string-array name="answers_0">
+        <item>Reinhold Messner</item>
+        <item>Jerzy Kukuczka</item>
+        <item>Denis Urubko</item>
+        <item>Wojciech Kurtyka</item>
+    </string-array>
+
+    <string-array name="answers_1">
+        <item>Lhotse</item>
+        <item>Makalu</item>
+        <item>Cho Oyu</item>
+        <item>K2</item>
+    </string-array>
+
+    <string-array name="answers_2">
+        <item>1935</item>
+        <item>1948</item>
+        <item>1953</item>
+        <item>1960</item>
+    </string-array>
+
+    <string-array name="answers_3">
+        <item>Nepal</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string-array name="answers_4">
+        <item>Nanga Parbat</item>
+        <item>Broad Peak</item>
+        <item>Lhotse</item>
+        <item>Mount Everest</item>
+    </string-array>
+
+    <string name="score_message_1">You answered correctly to</string>
+    <string name="score_message_2">out of</string>
+    <string name="score_message_3">questions!</string>
+    <string name="question_not_answered">You missed</string>
+    <string name="perfect_score">Perfect Score! Congratulation!</string>
+    <string name="score_button_text">Score</string>
+    <string name="finish_button_text">Finish</string>
+    <string name="start_button_text">Start</string>
+    <string name="view_answers_text">View Answers</string>
+    <string name="userGreetings">Hi</string>
+    <string name="no_input_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="welcome_message_1">Welcome to the Himalayas!</string>
+    <string name="welcome_message_2">This quiz is about the Himalaya mountains and some of their historical facts. Good luck!</string>
+</resources>
