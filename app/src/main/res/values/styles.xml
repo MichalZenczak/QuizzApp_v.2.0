@@ -19,7 +19,7 @@
     <style name="radioGroupStyle">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_below">@id/question_text</item>
+        <item name="android:layout_below">@id/rb_question_text</item>
         <item name="android:paddingLeft">@dimen/padding</item>
         <item name="android:paddingBottom">@dimen/padding</item>
     </style>

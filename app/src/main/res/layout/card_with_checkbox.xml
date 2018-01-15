@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CardViewStyle">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/chb_question_text"
+            style="@style/textViewStyle"/>
+
+
+            <CheckBox
+                android:id="@+id/chb_answer_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/chb_question_text"/>
+
+            <CheckBox
+                android:id="@+id/chb_answer_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/chb_answer_1"/>
+
+            <CheckBox
+                android:id="@+id/chb_answer_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/chb_answer_2"/>
+
+            <CheckBox
+                android:id="@+id/chb_answer_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/chb_answer_3"/>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">QuizzApp_v2</string>
 
-    <string-array name="questions">
+    <string-array name="rb_questions">
         <item>Who was the first man in history to ascend all fourteen eight-thousanders?</item>
         <item>What is the second highest mountain on Earth?</item>
         <item>In which year the first ever successful ascent on Mount Everest was recorded?</item>
@@ -9,35 +9,54 @@
         <item>Chomolungma is the Tibetan name for which mountain?</item>
     </string-array>
 
-    <string-array name="answers_0">
+    <string-array name="chb_questions">
+        <item>Pytanie 1 do checkboxa</item>
+        <item>Pytanie 2 do checkboxa</item>
+    </string-array>
+
+    <string-array name="chb_answers_0">
+        <item>odp 1</item>
+        <item>odp 2</item>
+        <item>odp 3</item>
+        <item>odp 4</item>
+    </string-array>
+
+    <string-array name="chb_answers_1">
+        <item>odp 1</item>
+        <item>odp 2</item>
+        <item>odp 3</item>
+        <item>odp 4</item>
+    </string-array>
+
+    <string-array name="rb_answers_0">
         <item>Reinhold Messner</item>
         <item>Jerzy Kukuczka</item>
         <item>Denis Urubko</item>
         <item>Wojciech Kurtyka</item>
     </string-array>
 
-    <string-array name="answers_1">
+    <string-array name="rb_answers_1">
         <item>Lhotse</item>
         <item>Makalu</item>
         <item>Cho Oyu</item>
         <item>K2</item>
     </string-array>
 
-    <string-array name="answers_2">
+    <string-array name="rb_answers_2">
         <item>1935</item>
         <item>1948</item>
         <item>1953</item>
         <item>1960</item>
     </string-array>
 
-    <string-array name="answers_3">
+    <string-array name="rb_answers_3">
         <item>Nepal</item>
         <item>China</item>
         <item>India</item>
         <item>Pakistan</item>
     </string-array>
 
-    <string-array name="answers_4">
+    <string-array name="rb_answers_4">
         <item>Nanga Parbat</item>
         <item>Broad Peak</item>
         <item>Lhotse</item>
