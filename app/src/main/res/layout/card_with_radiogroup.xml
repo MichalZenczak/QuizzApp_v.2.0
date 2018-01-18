@@ -11,7 +11,9 @@
             android:id="@+id/rb_question_text"
             style="@style/textViewStyle" />
 
-        <RadioGroup style="@style/radioGroupStyle">
+        <RadioGroup
+            android:id="@+id/radio_group"
+            style="@style/radioGroupStyle">
 
             <RadioButton
                 android:id="@+id/rb_answer_1"

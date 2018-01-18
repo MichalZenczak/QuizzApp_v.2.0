@@ -10,22 +10,22 @@
     </string-array>
 
     <string-array name="chb_questions">
-        <item>Pytanie 1 do checkboxa</item>
-        <item>Pytanie 2 do checkboxa</item>
+        <item>Placeholder for checkbox question 1</item>
+        <item>Placeholder for checkbox question 2</item>
     </string-array>
 
     <string-array name="chb_answers_0">
-        <item>odp 1</item>
-        <item>odp 2</item>
-        <item>odp 3</item>
-        <item>odp 4</item>
+        <item>Placeholder answer 1</item>
+        <item>Placeholder answer 2</item>
+        <item>Placeholder answer 3</item>
+        <item>Placeholder answer 4</item>
     </string-array>
 
     <string-array name="chb_answers_1">
-        <item>odp 1</item>
-        <item>odp 2</item>
-        <item>odp 3</item>
-        <item>odp 4</item>
+        <item>Placeholder answer 1</item>
+        <item>Placeholder answer 2</item>
+        <item>Placeholder answer 3</item>
+        <item>Placeholder answer 4</item>
     </string-array>
 
     <string-array name="rb_answers_0">
